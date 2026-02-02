@@ -1,7 +1,6 @@
 <div id="header">
-  <a href="https://www.linkedin.com/in/miji-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  
+
   </div>
   <div align = "center">
   
@@ -27,7 +26,6 @@
 
 - :bike: In my free time, I explore other programming languages and also practice Xcountry(biking and running).
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mickael-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/miji-dev))
 
 
 ---
